@@ -3,4 +3,4 @@ using tools that the customer can integrate into their own workflow.
 
 <center>Agile. Adaptive. Pragmatic.</center>
 
-<center>[Contact:] (mailto:info@unitingcode.com)</center>
+[Contact:] (mailto:info@unitingcode.com)
