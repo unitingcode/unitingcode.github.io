@@ -2,5 +2,3 @@ We provide coaching and software development assistance for a wide variety of te
 using tools that the customer can integrate into their own workflow.
 
 <center>Agile. Adaptive. Pragmatic.</center>
-
-<center>Contact: (mailto:info@unitingcode.com)</center>
