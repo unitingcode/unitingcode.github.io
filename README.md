@@ -1,2 +1,2 @@
-# unitingcode.github.io
-Uniting Code Site
+#Uniting Code
+Software Craftsmen
